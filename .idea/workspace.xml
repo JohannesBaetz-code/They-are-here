@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="They-are-here:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2f3d906-c725-45fd-930a-8e26dd159394" name="Default Changelist" comment="ready to deploy">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/They_are_here.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/They_are_here_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/54848_They_are_here_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1tt18yP1FDr9Q28eCrCL5oAk1bP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/javafx-versions/javafx-sdk-16/bin/vcruntime140_1.dll" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Johannes\IdeaProjects\Prototype-move\src\sprites\tiles" />
+      <recent name="C:\Users\Johannes\IdeaProjects\Prototype-move\src\sprites" />
+      <recent name="C:\Users\Johannes\IdeaProjects\Prototype-move\src" />
+      <recent name="C:\Users\Johannes\IdeaProjects\Prototype-move\src\sprites\player" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="They-are-here" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX16} --add-modules javafx.controls,javafx.media,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2f3d906-c725-45fd-930a-8e26dd159394" name="Default Changelist" comment="" />
+      <created>1623573416370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623573416370</updated>
+      <workItem from="1623573417481" duration="2898000" />
+      <workItem from="1623577492565" duration="4098000" />
+      <workItem from="1623590956865" duration="9000" />
+      <workItem from="1623609852869" duration="625000" />
+      <workItem from="1623610491438" duration="12179000" />
+      <workItem from="1623673719999" duration="7560000" />
+      <workItem from="1623741862752" duration="682000" />
+      <workItem from="1623845410922" duration="29000" />
+      <workItem from="1624199861590" duration="3181000" />
+      <workItem from="1624283198760" duration="1425000" />
+      <workItem from="1624291552389" duration="3326000" />
+      <workItem from="1624311117620" duration="4974000" />
+      <workItem from="1624351874428" duration="490000" />
+      <workItem from="1624352376050" duration="5883000" />
+      <workItem from="1624394991902" duration="2570000" />
+      <workItem from="1624437401423" duration="17270000" />
+      <workItem from="1624527048607" duration="2710000" />
+      <workItem from="1624610180744" duration="105000" />
+      <workItem from="1624800863056" duration="8281000" />
+      <workItem from="1624871149677" duration="22899000" />
+      <workItem from="1624958360122" duration="11057000" />
+      <workItem from="1625055931997" duration="3307000" />
+      <workItem from="1625132091180" duration="16515000" />
+      <workItem from="1625218472709" duration="7768000" />
+      <workItem from="1625233662423" duration="19064000" />
+      <workItem from="1625302983850" duration="30627000" />
+      <workItem from="1625386128606" duration="28432000" />
+      <workItem from="1625429785702" duration="1866000" />
+      <workItem from="1626204128014" duration="35000" />
+      <workItem from="1626644608161" duration="703000" />
+      <workItem from="1626686571548" duration="592000" />
+      <workItem from="1627310060250" duration="3819000" />
+      <workItem from="1628453496286" duration="4069000" />
+      <workItem from="1628530642383" duration="3209000" />
+      <workItem from="1628697087093" duration="5000" />
+      <workItem from="1629120696578" duration="1499000" />
+      <workItem from="1631798740075" duration="30000" />
+      <workItem from="1632523719367" duration="1941000" />
+      <workItem from="1633639325326" duration="604000" />
+      <workItem from="1634164998308" duration="1000" />
+      <workItem from="1635936921237" duration="26000" />
+      <workItem from="1636658476113" duration="846000" />
+      <workItem from="1636898638674" duration="81000" />
+      <workItem from="1638018659823" duration="37000" />
+      <workItem from="1638740628210" duration="1444000" />
+      <workItem from="1647124884087" duration="495000" />
+      <workItem from="1647781127847" duration="141000" />
+      <workItem from="1649283470338" duration="627000" />
+      <workItem from="1654939614203" duration="1131000" />
+      <workItem from="1655052044799" duration="645000" />
+      <workItem from="1655052752084" duration="1362000" />
+      <workItem from="1658678054633" duration="842000" />
+    </task>
+    <task id="LOCAL-00001" summary="Marksmann added, can't follow player yet">
+      <created>1623586074835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623586074835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="marksman fixed, character class new">
+      <created>1623614075530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623614075530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed music, better weapon, basic UI">
+      <created>1623623387597</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623623387597</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updae">
+      <created>1623845427139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623845427139</updated>
+    </task>
+    <task id="LOCAL-00005" summary="respawn, secondplayer and scene trasition">
+      <created>1624316079983</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624316079983</updated>
+    </task>
+    <task id="LOCAL-00006" summary="graphics-work">
+      <created>1624354285718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624354285718</updated>
+    </task>
+    <task id="LOCAL-00007" summary="graphics-work">
+      <created>1624367615166</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624367615166</updated>
+    </task>
+    <task id="LOCAL-00008" summary="graphics-work">
+      <created>1624367622730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624367622730</updated>
+    </task>
+    <task id="LOCAL-00009" summary="workin on startmenu">
+      <created>1624454152576</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624454152576</updated>
+    </task>
+    <task id="LOCAL-00010" summary="workin on startmenu 2">
+      <created>1624610200331</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624610200331</updated>
+    </task>
+    <task id="LOCAL-00011" summary="StartMenu and ControlMenu final done">
+      <created>1624820750354</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1624820750354</updated>
+    </task>
+    <task id="LOCAL-00012" summary="LevelChanger try">
+      <created>1624896439473</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1624896439473</updated>
+    </task>
+    <task id="LOCAL-00013" summary="currentstate">
+      <created>1624896659019</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1624896659019</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Levelchanger works">
+      <created>1624897298187</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1624897298187</updated>
+    </task>
+    <task id="LOCAL-00015" summary="UI for Secondplayer and Playernumber added">
+      <created>1624905598445</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1624905598445</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ui for reloading started">
+      <created>1624910597199</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1624910597199</updated>
+    </task>
+    <task id="LOCAL-00017" summary="gamemenu works">
+      <created>1624964608304</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1624964608305</updated>
+    </task>
+    <task id="LOCAL-00018" summary="implements final var for screensize">
+      <created>1625005003372</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1625005003372</updated>
+    </task>
+    <task id="LOCAL-00019" summary="pickup tiles implemented">
+      <created>1625087851143</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1625087851143</updated>
+    </task>
+    <task id="LOCAL-00020" summary="pickup tiles implemented">
+      <created>1625087858410</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1625087858410</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ready or deploy">
+      <created>1625234715769</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1625234715769</updated>
+    </task>
+    <task id="LOCAL-00022" summary="marksman sprite added">
+      <created>1625237243956</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1625237243956</updated>
+    </task>
+    <task id="LOCAL-00023" summary="AmmoCount implemented">
+      <created>1625239803645</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1625239803645</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Ammo Pickup implemented">
+      <created>1625240388451</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1625240388451</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ui loading fixed">
+      <created>1625254672001</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1625254672001</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Main Class structered">
+      <created>1625255203389</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1625255203389</updated>
+    </task>
+    <task id="LOCAL-00027" summary="level 3 and 4">
+      <created>1625257156140</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1625257156140</updated>
+    </task>
+    <task id="LOCAL-00028" summary="level overwork">
+      <created>1625303036200</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1625303036200</updated>
+    </task>
+    <task id="LOCAL-00029" summary="lives implented, game over implemented, ui with live counter implemented">
+      <created>1625321243606</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1625321243606</updated>
+    </task>
+    <task id="LOCAL-00030" summary="secondplayer gameover fixed">
+      <created>1625321510107</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1625321510107</updated>
+    </task>
+    <task id="LOCAL-00031" summary="DeathScreen implemented">
+      <created>1625324188570</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1625324188570</updated>
+    </task>
+    <task id="LOCAL-00032" summary="DeathScreen new constructor">
+      <created>1625327090360</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1625327090360</updated>
+    </task>
+    <task id="LOCAL-00033" summary="friendly fire for enemies disabled">
+      <created>1625328964849</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1625328964849</updated>
+    </task>
+    <task id="LOCAL-00034" summary="playbulltes get removed from world and ammopickup added">
+      <created>1625329486398</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1625329486398</updated>
+    </task>
+    <task id="LOCAL-00035" summary="character package dokumented">
+      <created>1625331677682</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1625331677682</updated>
+    </task>
+    <task id="LOCAL-00036" summary="jumpcollision added">
+      <created>1625339317707</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1625339317707</updated>
+    </task>
+    <task id="LOCAL-00037" summary="marksmann sprite changed">
+      <created>1625339650256</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1625339650256</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Seconplayer spawn added, levelchanger reworked">
+      <created>1625344609030</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1625344609030</updated>
+    </task>
+    <task id="LOCAL-00039" summary="new ground-tile with cosmetic deepground">
+      <created>1625352838897</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1625352838897</updated>
+    </task>
+    <task id="LOCAL-00040" summary="main package dokumented">
+      <created>1625389378158</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1625389378158</updated>
+    </task>
+    <task id="LOCAL-00041" summary="menu package dokumented">
+      <created>1625390147412</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1625390147412</updated>
+    </task>
+    <task id="LOCAL-00042" summary="pickup package dokumented">
+      <created>1625390317751</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1625390317751</updated>
+    </task>
+    <task id="LOCAL-00043" summary="ui lives bug fixed, weapon package dokumented">
+      <created>1625392578068</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1625392578068</updated>
+    </task>
+    <task id="LOCAL-00044" summary="new Music, ui better">
+      <created>1625408992451</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1625408992451</updated>
+    </task>
+    <task id="LOCAL-00045" summary="changetile">
+      <created>1625412562315</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1625412562315</updated>
+    </task>
+    <task id="LOCAL-00046" summary="level rework">
+      <created>1625417585405</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1625417585405</updated>
+    </task>
+    <task id="LOCAL-00047" summary="before last changes">
+      <created>1625420131753</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1625420131753</updated>
+    </task>
+    <task id="LOCAL-00048" summary="ready to deploy">
+      <created>1625420854530</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1625420854530</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ammo Pickup implemented" />
+    <MESSAGE value="ui loading fixed" />
+    <MESSAGE value="Main Class structered" />
+    <MESSAGE value="level 3 and 4" />
+    <MESSAGE value="level overwork" />
+    <MESSAGE value="lives implented, game over implemented, ui with live counter implemented" />
+    <MESSAGE value="secondplayer gameover fixed" />
+    <MESSAGE value="DeathScreen implemented" />
+    <MESSAGE value="DeathScreen new constructor" />
+    <MESSAGE value="friendly fire for enemies disabled" />
+    <MESSAGE value="playbulltes get removed from world and ammopickup added" />
+    <MESSAGE value="character package dokumented" />
+    <MESSAGE value="jumpcollision added" />
+    <MESSAGE value="marksmann sprite changed" />
+    <MESSAGE value="Seconplayer spawn added, levelchanger reworked" />
+    <MESSAGE value="new ground-tile with cosmetic deepground" />
+    <MESSAGE value="main package dokumented" />
+    <MESSAGE value="menu package dokumented" />
+    <MESSAGE value="pickup package dokumented" />
+    <MESSAGE value="ui lives bug fixed, weapon package dokumented" />
+    <MESSAGE value="new Music, ui better" />
+    <MESSAGE value="changetile" />
+    <MESSAGE value="level rework" />
+    <MESSAGE value="before last changes" />
+    <MESSAGE value="ready to deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready to deploy" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

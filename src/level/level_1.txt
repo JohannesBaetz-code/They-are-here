@@ -1,0 +1,13 @@
+|             |                      |
+|             |                      |
+|             |                      |
+|  a          |           |          |
+|  ||                     |          |
+|                 ||      |          |
+|             |           |          |
+|       ||    |           |          |
+|             |           |          |
+|   a         | R   R  r  |    MR    |
+__________________________________CCC_
+dddddddddddddddddddddddddddddddddddddd
+dddddddddddddddddddddddddddddddddddddd
